@@ -5,8 +5,8 @@
   <a href="https://github.com/kerryhen">
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerryhen&show_icons=true&theme=dark&bg_color=00000000&card_width=458"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerryhen&layout=compact&langs_count=7&theme=dark&bg_color=00000000&card_width=458"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kerryhen&show_icons=true&theme=dark&bg_color=00000000&card_width=458"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerryhen&layout=compact&langs_count=7&theme=dark&bg_color=00000000&card_width=458"/>
 </div>
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kerryhen&heigth=200&theme=high-contrast&bg_color=FFF0&hide_border=true&grid=true&hide_title=true&days=30&area=true&point=FFF0)
@@ -27,7 +27,7 @@
 
 ## Contato
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:0Kerryhen@pm.me)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/henrycke)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=120&section=footer"/>
 
